@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am a sophomore at IIT Dharwad persuing my undergraduate degree, B.Tech in Computer Science & Engineering.
+Passionate about all things AI.
 
 <!--
 **Siddharth-Singh-2004/siddharth-singh-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
