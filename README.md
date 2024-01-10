@@ -2,7 +2,7 @@
 
 🔭 I am a sophomore at IIT Dharwad pursuing my undergraduate degree, B.Tech in Computer Science & Engineering.
 
-🌱 I am passionate about all things AI.
+🌱 Interested in AI and its real life applications. Feel free to contact for any project ideas.
 
 
 ---
