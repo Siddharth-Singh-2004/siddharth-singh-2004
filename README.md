@@ -24,6 +24,9 @@ I am passionate about all things AI.
 ---
 ### :fire: My Stats :
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=siddharth-singh-2004&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 ---
 <!--
 **Siddharth-Singh-2004/siddharth-singh-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
