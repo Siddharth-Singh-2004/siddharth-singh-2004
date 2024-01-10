@@ -24,7 +24,7 @@ I am passionate about all things AI.
 ---
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=siddharth-singh-2004&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=siddharth-singh-2004&theme=dark)](https://git.io/streak-stats)
 
 
 ---
