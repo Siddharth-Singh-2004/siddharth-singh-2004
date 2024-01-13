@@ -4,7 +4,7 @@
 
 🌱 Interested in AI and its real life applications. 
 
-<a href="https://www.linkedin.com/in/siddharth-singh-2483bb251/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Siddharth Singh | LinkedIn" width="21px"/>Feel free to contact for any project ideas</a>
+<a href="https://www.linkedin.com/in/siddharth-singh-2483bb251/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Siddharth Singh | LinkedIn" width="21px"/>Feel free to contact for any project ideas and collaborations</a>
 <br>
 
 ---
