@@ -31,7 +31,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Siddharth-Singh-2004&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
 
 
-### 👨‍💻 Siddharth Singh's <a href="https://leetcode.com/Siddharth_Singh_2004/">LeetCode Journey</a> (Jan 2024 - now)
+### 👨‍💻 Siddharth Singh's <a href="https://leetcode.com/Siddharth_Singh_2004/" target="_blank">LeetCode Journey</a> (Jan 2024 - now)
 
 [![Siddharth_Singh_2004's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Siddharth_Singh_2004&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
