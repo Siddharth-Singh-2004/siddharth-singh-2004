@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I am a sophomore at IIT Dharwad pursuing my undergraduate degree, B.Tech in Computer Science & Engineering.
+🔭 I am a sophomore at the Indian Institute of Technology (IIT) at Dharwad pursuing my undergraduate B.Tech degree in Computer Science & Engineering.
 
 🌱 Interested in all things AI and its real life applications. 
 
