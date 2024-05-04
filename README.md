@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I am a sophomore at the Indian Institute of Technology (IIT) at Dharwad pursuing my undergraduate B.Tech degree in Computer Science & Engineering (CSE).
+🔭 I am a junior at the Indian Institute of Technology (IIT) at Dharwad pursuing my undergraduate B.Tech degree in Computer Science & Engineering (CSE).
 
 - 👯 I’m passionate about contributing to Open Source Software. 
 
